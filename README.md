@@ -13,7 +13,7 @@ npm install -g phonegap@latest
 To start a new build and run the project:
 
 ```shell
-cd myapp/www
+cd www
 npm run build
 cd ..
 phonegap run ios
