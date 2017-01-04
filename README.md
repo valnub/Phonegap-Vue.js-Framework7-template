@@ -10,7 +10,7 @@ Make sure you have Phonegap/Cordova installed:
 npm install -g phonegap@latest
 ```
 
-To start a new build and run the project:
+To start a new build and run the project, go to your project folder and do:
 
 ```shell
 cd www
