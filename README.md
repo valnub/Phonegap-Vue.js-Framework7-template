@@ -2,6 +2,11 @@
 
 A template for starting a new project with Phonegap, Vue.js and Framework7
 
+## Compatibility
+
+- Framework7 v1
+- Vue 2.x or higher
+
 ## Usage
 
 Make sure you have Phonegap/Cordova installed:
